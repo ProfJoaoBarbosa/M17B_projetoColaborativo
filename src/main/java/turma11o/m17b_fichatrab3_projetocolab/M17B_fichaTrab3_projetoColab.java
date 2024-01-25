@@ -32,10 +32,13 @@ public class M17B_fichaTrab3_projetoColab {
         
         //----------------------------------------------------------------------
         // CÓDIGO ACRESCENTADO SÓ ABAIXO DESTA LINHA 
-              
+        
         poligonos[19] = new Retangulo("a99999", 5, 9);
         System.out.println(poligonos[19]);
-       
+        poligonos[4] = new Retangulo("a22903", 9, 5);
+        System.out.println(poligonos[4]);
+        
+        
         
 
     }
