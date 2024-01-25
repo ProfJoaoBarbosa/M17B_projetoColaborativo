@@ -65,7 +65,7 @@ public class M17B_fichaTrab3_projetoColab {
         poligonos[11] = new Retangulo("a17736",23,23);
         System.out.println(poligonos[11]);
         
-        //------------------------------------------------
+        //-------------------------------------------------
 
     }
 }
